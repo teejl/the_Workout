@@ -1,6 +1,7 @@
 # The Workout
 ## by TeeJ Lockwood
 
+# Templates:
 Lift Set 1:
 1. Push up
 2. Pull Up
