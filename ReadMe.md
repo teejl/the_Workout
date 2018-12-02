@@ -12,7 +12,7 @@ Lift Set 1:
 
 
 Workout 1:
-WARM-UP: 10min Jump-Rope
-COMPOUND: 3(lifts)x3(sets)x15(reps) ~ 90s rests (between sets)
-ABS: 1(lift)x3(sets)  
+1. 10min Jump-Rope
+2. 3(lifts)x3(sets)x15(reps) ~ 90s rests (between sets)
+3. 1(lift)x3(sets)  
 
