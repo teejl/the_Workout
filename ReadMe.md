@@ -1,5 +1,5 @@
-## The Workout
-# by TeeJ Lockwood
+# The Workout
+## by TeeJ Lockwood
 
 Lift Set 1:
 1. Push up
@@ -31,5 +31,5 @@ Cycle 1:
 3. Week 1
 
 
-# Actual:
+## Actual:
 
